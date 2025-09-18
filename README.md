@@ -1,2 +1,8 @@
 # mern-project
-MERN Project: MongoDB + Express.js + React.js + Node.js 
+
+MERN Project: MongoDB + Express.js + React.js + Node.js
+
+```bash
+git clone https://github.com/CodeWithSushil/mern-project.git
+cd mern-project
+```
