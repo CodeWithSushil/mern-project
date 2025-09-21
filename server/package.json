@@ -1,13 +1,15 @@
 {
-  "name": "mren",
-  "version": "1.0.0",
+  "name": "mern",
+  "version": "0.0.1",
   "main": "index.js",
   "scripts": {
+    "dev": "node server.js --watch",
+    "build": "node server.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "",
   "license": "ISC",
-  "description": "",
+  "description": "MERN Project",
   "dependencies": {
     "bcrypt": "^6.0.0",
     "express": "^5.1.0",
