@@ -4,9 +4,7 @@ import pool from "./config/db.js";
 const app = express();
 
 app.get("/", async (req, res) => {
-    // res.writeHead(200, {'Content-Type':
-'text/html'});
-    res.send('<h1> Welcome to MERN Stack! </h1>');
+    res.send('Welcome to MERN Stack!');
 });
 
 /*
