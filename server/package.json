@@ -2,7 +2,7 @@
   "name": "mern",
   "version": "0.0.1",
   "type": "module",
-  "main": "index.js",
+  "main": "server.js",
   "scripts": {
     "dev": "nodemon server.js",
     "prod": "node server.js",
